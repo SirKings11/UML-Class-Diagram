@@ -2,6 +2,7 @@
 
 ## Problem Domain Description 
 Title: E-commerce Website
+-- 
 Description: This system allows users to browse products, add items to a shopping cart, and place orders online.
 It manages product availability, tracks customer orders, and processes payments securely.
 The system updates inventory in real time as purchases are made or cancelled, while also maintaining user accounts and order history for future reference.
